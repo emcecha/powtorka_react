@@ -1,0 +1,15 @@
+{
+  "name": "01_fetch",
+  "version": "1.0.0",
+  "description": "> Stwórz w pełni działające środowisko, które pozwoli Ci pisać pliki JSX, skompilować je do plików JS i uruchomić działającą aplikację React.\r > \r > Pamiętaj o:\r > - ```npm init```\r > - Zainstalowaniu odpowiednich modułów\r > - Ustawieniu Webpacka, pierwszym plikiem wejściowym ma być `js/zadanie00.jsx` potem z kolejnymi numerami zadań, wyjściowym zawsze `js/out.js`\r >\r > **Pamiętaj, żeby podczas wykonywania zadań modyfikować odpowiednio plik _webpack.config.js_, aby wskazywać plik nad którym obecnie pracujesz w _entry_.**",
+  "main": "index.js",
+  "dependencies": {
+    "whatwg-fetch": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
